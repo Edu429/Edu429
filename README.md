@@ -73,3 +73,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Edu429/Edu429/output/github-contribution-grid-snake.svg" />
+</p>
